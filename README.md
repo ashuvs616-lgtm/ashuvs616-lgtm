@@ -106,9 +106,16 @@ I'm **V S Ashok**, a passionate **Python Full Stack Developer** and **AI & Compu
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashuvs616-lgtm&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="GitHub Trophies"/>
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ashuvs616-lgtm&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies Row 2"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ashuvs616-lgtm&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10" alt="GitHub Trophies"/>
+</div>
+
+---
+
+<!-- SECTION F2: SKILLS ICONS -->
+## ⚡ Skills at a Glance
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,mysql,opencv,tensorflow,git,github,vscode,linux,postman&theme=dark&perline=5" alt="Skill Icons"/>
 </div>
 
 ---

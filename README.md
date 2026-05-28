@@ -102,11 +102,16 @@ I'm **V S Ashok**, a passionate **Python Full Stack Developer** and **AI & Compu
 
 ---
 
-<!-- SECTION F: GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
+<!-- SECTION F: ACHIEVEMENTS -->
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashuvs616-lgtm&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10" alt="GitHub Trophies"/>
+
+![Commits](https://img.shields.io/badge/Total%20Commits-5+-00D4FF?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-Growing-FF6C37?style=for-the-badge&logo=github&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-AI%20%26%20CV-7B2FBE?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-00C853?style=for-the-badge&logo=google&logoColor=white)
+
 </div>
 
 ---

@@ -98,8 +98,7 @@ I'm **V S Ashok**, a passionate **Python Full Stack Developer** and **AI & Compu
 
 </div>
 
-> ⚠️ **Stats not loading?** GitHub rate-limits these widgets. Try refreshing in a few minutes, or view them directly:
-> [Stats](https://github-readme-stats.vercel.app/api?username=ashuvs616-lgtm&show_icons=true&theme=tokyonight) · [Streak](https://streak-stats.demolab.com?user=ashuvs616-lgtm&theme=tokyonight) · [Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashuvs616-lgtm&layout=compact&theme=tokyonight)
+
 
 ---
 
@@ -107,7 +106,9 @@ I'm **V S Ashok**, a passionate **Python Full Stack Developer** and **AI & Compu
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashuvs616-lgtm&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ashuvs616-lgtm&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="GitHub Trophies"/>
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ashuvs616-lgtm&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies Row 2"/>
 </div>
 
 ---

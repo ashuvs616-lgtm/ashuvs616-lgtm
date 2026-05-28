@@ -85,14 +85,21 @@ I'm **V S Ashok**, a passionate **Python Full Stack Developer** and **AI & Compu
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ashuvs616-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=400" height="180" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=ashuvs616-lgtm&theme=tokyonight&hide_border=true&card_width=400" height="180" alt="GitHub Streak"/>
+<!-- Stats Card — uses GitHub's own CDN, most reliable -->
+<img src="https://github-readme-stats-steel-kappa-50.vercel.app/api?username=ashuvs616-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
+&nbsp;
+<!-- Streak — demolab instance is most stable public host -->
+<img src="https://streak-stats.demolab.com?user=ashuvs616-lgtm&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" alt="GitHub Streak"/>
 
-  <br/><br/>
+<br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuvs616-lgtm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" height="180" alt="Top Languages"/>
+<!-- Top Languages -->
+<img src="https://github-readme-stats-steel-kappa-50.vercel.app/api/top-langs/?username=ashuvs616-lgtm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
 
 </div>
+
+> ⚠️ **Stats not loading?** GitHub rate-limits these widgets. Try refreshing in a few minutes, or view them directly:
+> [Stats](https://github-readme-stats.vercel.app/api?username=ashuvs616-lgtm&show_icons=true&theme=tokyonight) · [Streak](https://streak-stats.demolab.com?user=ashuvs616-lgtm&theme=tokyonight) · [Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashuvs616-lgtm&layout=compact&theme=tokyonight)
 
 ---
 
@@ -100,7 +107,7 @@ I'm **V S Ashok**, a passionate **Python Full Stack Developer** and **AI & Compu
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashuvs616-lgtm&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ashuvs616-lgtm&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -109,7 +116,7 @@ I'm **V S Ashok**, a passionate **Python Full Stack Developer** and **AI & Compu
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashuvs616-lgtm&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashuvs616-lgtm&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -136,4 +143,3 @@ I'm always open to interesting conversations, collaborations, or a quick "Hello!
 ⭐ **If you found any of my projects helpful, consider leaving a star!** ⭐
 
 </div>
-

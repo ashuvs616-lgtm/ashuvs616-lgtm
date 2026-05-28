@@ -85,12 +85,12 @@ I'm **V S Ashok**, a passionate **Python Full Stack Developer** and **AI & Compu
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ashuvs616-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashuvs616-lgtm&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashuvs616-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=400" height="180" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=ashuvs616-lgtm&theme=tokyonight&hide_border=true&card_width=400" height="180" alt="GitHub Streak"/>
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuvs616-lgtm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuvs616-lgtm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" height="180" alt="Top Languages"/>
 
 </div>
 
@@ -100,7 +100,7 @@ I'm **V S Ashok**, a passionate **Python Full Stack Developer** and **AI & Compu
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashuvs616-lgtm&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ashuvs616-lgtm&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="GitHub Trophies"/>
 </div>
 
 ---
